@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MohamedFayad33/MohamedFayad33/output/anime.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MohamedFayad33/MohamedFayad33/output/anime.svg" alt="anime animation" />
 
 ###
 
